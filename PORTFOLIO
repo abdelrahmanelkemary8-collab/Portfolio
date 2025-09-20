@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+padding: 15px;
+border: 1px solid #ddd;
+}
+footer {
+text-align: center;
+padding: 15px;
+background: #2c3e50;
+color: #fff;
+margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Abdelrahman Elkemary</h1>
+<p>Aspiring Data Scientist | Civil & Environmental Engineer</p>
+</header>
+
+
+<section>
+<h2>About Me</h2>
+<p>I am Abdelrahman Elkemary, a civil and environmental engineer passionate about applying data science to solve real-world problems. With experience in groundwater modeling, GIS mapping, and sustainable engineering practices, I am advancing into data science to combine technical expertise with analytical insights. My goal is to contribute solutions that impact society and the environment positively.</p>
+</section>
+
+
+<section>
+<h2>Skills</h2>
+<div class="skills">
+<div class="card">Python & R for Data Science</div>
+<div class="card">Machine Learning & Predictive Modeling</div>
+<div class="card">Data Visualization (Matplotlib, Seaborn)</div>
+<div class="card">SQL & Database Management</div>
+<div class="card">GIS & Groundwater Modeling (MODFLOW, GMS)</div>
+<div class="card">Civil & Environmental Engineering Concepts</div>
+</div>
+</section>
+
+
+<section>
+<h2>Projects</h2>
+<div class="projects">
+<div class="card">
+<h3>Road Safety Data Analysis</h3>
+<p>Analyzed traffic accident datasets to identify patterns and suggest measures for improving road safety.</p>
+</div>
+<div class="card">
+<h3>Groundwater Modeling</h3>
+<p>Developed groundwater models using MODFLOW to simulate aquifer behavior and support sustainable water management.</p>
+</div>
+<div class="card">
+<h3>Data-Driven Engineering Reports</h3>
+<p>Automated report generation with Python to streamline engineering workflows and improve decision-making.</p>
+</div>
+</div>
+</section>
+
+
+<section>
+<h2>Contact</h2>
+<p>Email: abdelrahman.elkemary@example.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/abdelrahman-elkemary" target="_blank">linkedin.com/in/abdelrahman-elkemary</a></p>
+</section>
+
+
+<footer>
+<p>&copy; 2025 Abdelrahman Elkemary | Portfolio</p>
+</footer>
+</body>
+</html>
