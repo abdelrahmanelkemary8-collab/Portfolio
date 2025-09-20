@@ -4,8 +4,7 @@
 Welcome to my personal portfolio website repository.  
 This site showcases my skills, projects, and professional background as I transition into the field of **Data Science** while leveraging my foundation in **Civil & Environmental Engineering**.
 
-## 🌐 Live Portfolio Website
-Once GitHub Pages is enabled, you can access the live site here:  
+## 🌐 Live Portfolio Website 
 👉 https://abdelrahmanelkemary8-collab.github.io/Portfolio/
 
 ## 📌 About Me
